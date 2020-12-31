@@ -1,3 +1,2 @@
-foo/*/* == foo/bar/file.xyz
-foo/*/* != foo/bar/dir/file.xyz
-foo/*/* != foo/file.xyz
+node_modules/
+dist/
